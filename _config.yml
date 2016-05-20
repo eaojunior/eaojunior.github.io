@@ -5,7 +5,7 @@ favicon: /assets/img/foto.jpg
 baseurl: 
 url: http://eaojunior.github.io
 rss_url: /pages/atom.xml
-google_analytics: UA-63653234-1
+google_analytics: UA-78083739-1
 
 # Build settings
 markdown: kramdown
