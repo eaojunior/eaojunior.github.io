@@ -30,7 +30,7 @@ author:
     - work1:
       company: Soledade Tecnologia
       location: Bahia, Brasil
-      title: Developer PHP, Android and Oracle
+      title: PHP Developer, Android Developer and Oracle BI
       started: 2015
       duration: (12/2015 - Present)
       description: 
@@ -43,13 +43,13 @@ author:
       description: 
   educationHistory:
     - education1:
-      organization: Northeastern University
-      location: Shenyang, China
+      organization: Estácio FIB
+      location: Bahia, Brasil
       degree: Bachelor
       major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      started: 2014
+      duration: (2014 - 2018)
+      description:
   languages:
     - language1:
       name: Portuguese
