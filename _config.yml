@@ -2,6 +2,7 @@
 title: Erivaldo Alves de Oliveira Jr
 description: Curriculo Erivaldo Jr
 favicon: /assets/img/foto.jpg
+pdficon: /assets/img/pdf-icon.png
 baseurl: 
 url: http://eaojunior.github.io
 rss_url: /pages/atom.xml
@@ -28,19 +29,54 @@ author:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: Soledade Tecnologia
+      company: Soledade Tecnology
       location: Bahia, Brasil
-      title: PHP Developer, Android Developer and Oracle BI
+      title: PHP Developer, Android Developer, Oracle BI and Support Server
       started: 2015
       duration: (12/2015 - Present)
-      description: 
+      description: Development of internal products using Laravel and Oracle. Recast infrastructure and virtualization
     - work2:
-      company: Simetria Tecnologia
+      company: Simetria Tecnology
       location: Bahia, Brasil
       title: Devops
       started: 2014
       duration: (11/2014 - 12/2015)
-      description: 
+      description: Development of internal products using Laravel and MySQL. Recast infrastructure and virtualization
+    - work3:
+      company: AMI Tecnology
+      location: Bahia, Brasil
+      title: PHP Developer
+      started: 2013
+      duration: (07/2013 - 11/2014)
+      description: Development of internal products using PHP and MySQL.
+    - work4:
+      company: FAPES
+      location: Bahia, Brasil
+      title: PHP Developer
+      started: 2009
+      duration: (02/2009 - 06/2011)
+      description: Development of internal products using PHP, MySQL and MSSql.
+    - work5:
+      company: .Compos
+      location: Bahia, Brasil
+      title: PHP Developer
+      started: 2008
+      duration: (08/2008 - 02/2009)
+      description: Development of products to marketing using PHP, MySQL and MSSql.
+    - work6:
+      company: Tel Telematic
+      location: Bahia, Brasil
+      title: PHP Developer, Support Client and Support Server
+      started: 2006
+      duration: (06/2006 - 07/2008)
+      description: Development of internal products using PHP, MySQL and MSSql. Support to client users and Servers Linux (VoIP, Dialer, Database, Proxie, Firewall, DNS, PostFix)
+    - work7:
+      company: Tel Telematic
+      location: Bahia, Brasil
+      title: Designer and PHP Developer
+      started: 2006
+      duration: (02/2006 - 06/2006)
+      description: Visual identity design company, folder, cartographic
   educationHistory:
     - education1:
       organization: Estácio FIB
@@ -49,6 +85,22 @@ author:
       major: Software Engineering
       started: 2014
       duration: (2014 - 2018)
+      description:
+    - education2:
+      organization: Estácio FIB
+      location: Bahia, Brasil
+      degree: Bachelor
+      major: System Analyst
+      started: 2004
+      duration: (2004 - 2008)
+      description:
+    - education3:
+      organization: UNR - University of Reconcavo
+      location: Bahia, Brasil
+      degree: Bachelor
+      major: System Analyst
+      started: 2002
+      duration: (2002 - 2002)
       description:
   languages:
     - language1:
@@ -72,17 +124,26 @@ author:
       percentage: 70%
   otherSkills:
     - skill1:
+      name: Linux
+      percentage: 95%
+    - skill2:
       name: Apache
       percentage: 90%
-    - skill2:
+    - skill3:
       name: HTTPD
       percentage: 90%
-    - skill3:
+    - skill4:
       name: Bind
       percentage: 95%
-    - skill4:
+    - skill5:
       name: Iptables
       percentage: 85%
-    - skill5:
+    - skill6:
       name: HTB
       percentage: 80%
+    - skill7:
+      name: MySQL
+      percentage: 90%
+    - skill8:
+      name: Oracle
+      percentage: 70%
