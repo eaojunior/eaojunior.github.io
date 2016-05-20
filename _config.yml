@@ -15,12 +15,12 @@ exclude: [vendor]
 # Author settings
 author:
   name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
+  title: Devops
+  address: Bahia, Brasil
+  email: eaojunior1@gmail.com
+  link: http://eaojunior.github.io
   weibo:
-  github: ddbullfrog
+  github: eaojunior
   linkedin: ddbullfrog
   twitter: ddbullfrog
   gavatar: /resumecard/assets/img/foto.jpg
@@ -28,26 +28,19 @@ author:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: Finzsoft Solutions Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Soledade Tecnologia
+      location: Bahia, Brasil
+      title: Developer PHP, Android and Oracle
+      started: 2015
+      duration: (12/2015 - Present)
+      description: 
     - work2:
-      company: Agfa HealthCare
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work3:
-      company: Citigroup Services and Technology (China) Limited
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Simetria Tecnologia
+      location: Bahia, Brasil
+      title: Devops
+      started: 2014
+      duration: (11/2014 - 12/2015)
+      description: 
   educationHistory:
     - education1:
       organization: Northeastern University
@@ -59,27 +52,36 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:
-      name: Chinese
+      name: Portuguese
       proficiency: Native
     - language2:
       name: English
       proficiency: Professional
-    - language3:
-      name: Japanese
-      proficiency: Limit
   programmingSkills:
     - skill1:
-      name: HTML
-      percentage: 100%
+      name: PHP
+      percentage: 95%
     - skill2:
       name: Bootstrap
       percentage: 90%
     - skill3:
       name: JavaScript
-      percentage: 70%
+      percentage: 90%
     - skill4:
-      name: AngularJS
+      name: Android
       percentage: 70%
     - skill5:
-      name: Java/Java EE
+      name: Apache
       percentage: 90%
+    - skill6:
+      name: HTTPD
+      percentage: 90%
+    - skill7:
+      name: Bind
+      percentage: 95%
+    - skill8:
+      name: Iptables
+      percentage: 85%
+    - skill9:
+      name: HTB
+      percentage: 80%
