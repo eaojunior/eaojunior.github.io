@@ -1,0 +1,7 @@
+_site
+.sass-cache
+.idea
+resumecard.iml
+/*.iml
+/Meu Portal/nbproject/private/
+/nbproject/private/
