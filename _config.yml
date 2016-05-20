@@ -70,18 +70,19 @@ author:
     - skill4:
       name: Android
       percentage: 70%
-    - skill5:
+  otherSkills:
+    - skill1:
       name: Apache
       percentage: 90%
-    - skill6:
+    - skill2:
       name: HTTPD
       percentage: 90%
-    - skill7:
+    - skill3:
       name: Bind
       percentage: 95%
-    - skill8:
+    - skill4:
       name: Iptables
       percentage: 85%
-    - skill9:
+    - skill5:
       name: HTB
       percentage: 80%
