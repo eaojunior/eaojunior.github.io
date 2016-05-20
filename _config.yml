@@ -1,9 +1,9 @@
 # Site settings
 title: Erivaldo Alves de Oliveira Jr
 description: Curriculo Erivaldo Jr
-favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+favicon: /assets/img/foto.jpg
+baseurl: http://eaojunior.github.io/resumecard
+url: http://eaojunior.github.io/resumecard
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -14,7 +14,7 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
+  name: Erivaldo Alves de Oliveira Jr
   title: Devops
   address: Bahia, Brasil
   email: eaojunior1@gmail.com
